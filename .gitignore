@@ -38,3 +38,5 @@ thumbs.db
 *.aps
 
 !buildTools
+
+!.woodpecker
